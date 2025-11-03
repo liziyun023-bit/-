@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 1,
     "medicine_id": "ef76c5dd-ef1c-4229-a011-9b2a21189510",
@@ -683,4 +683,5 @@
     "dosage": [3, 9],
     "contraindications": ["孕妇慎用"]
   }
-]
+
+}
